@@ -1,0 +1,1083 @@
+{
+  "1": {
+    "id": 1,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 3.2,
+    "cost": 470.5,
+    "package_type": "box",
+    "deadline_at": "2030-08-15T09:23:47Z",
+    "updated_at": "2025-02-22T19:53:12.670865+03:00"
+  },
+  "10": {
+    "id": 10,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 8.4,
+    "cost": 2820.5,
+    "package_type": "box",
+    "deadline_at": "2030-02-19T15:31:37Z",
+    "updated_at": "2025-02-22T19:53:12.67092+03:00"
+  },
+  "100": {
+    "id": 100,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 3.3,
+    "cost": 495.25,
+    "package_type": "box",
+    "deadline_at": "2030-08-23T09:10:28Z",
+    "updated_at": "2025-02-22T19:53:12.67129+03:00"
+  },
+  "1000": {
+    "id": 1000,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 430,
+    "cost": 1101002,
+    "package_type": "film",
+    "deadline_at": "2025-02-26T17:23:03.281521+03:00",
+    "updated_at": "2025-02-24T17:23:03.281528+03:00"
+  },
+  "11": {
+    "id": 11,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 1.8,
+    "cost": 225.75,
+    "deadline_at": "2030-10-14T07:18:49Z",
+    "updated_at": "2025-02-22T19:53:12.670924+03:00"
+  },
+  "12": {
+    "id": 12,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 13.7,
+    "cost": 6701,
+    "package_type": "film",
+    "deadline_at": "2030-05-27T12:53:04Z",
+    "updated_at": "2025-02-22T19:53:12.670928+03:00"
+  },
+  "1212": {
+    "id": 1212,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 12,
+    "cost": 521,
+    "package_type": "box",
+    "wrapper": "film",
+    "deadline_at": "2025-02-27T19:54:01.107542+03:00",
+    "updated_at": "2025-02-25T19:54:01.107549+03:00"
+  },
+  "12333": {
+    "id": 12333,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 4,
+    "cost": 506,
+    "package_type": "bag",
+    "wrapper": "film",
+    "deadline_at": "2025-03-01T16:51:33.983332+03:00",
+    "updated_at": "2025-02-27T16:51:33.983349+03:00"
+  },
+  "13": {
+    "id": 13,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 5.3,
+    "cost": 1205.25,
+    "package_type": "bag",
+    "deadline_at": "2030-01-08T17:40:31Z",
+    "updated_at": "2025-02-22T19:53:12.670931+03:00"
+  },
+  "14": {
+    "id": 14,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 10.6,
+    "cost": 4300.5,
+    "deadline_at": "2030-08-24T09:27:45Z",
+    "updated_at": "2025-02-22T19:53:12.670935+03:00"
+  },
+  "15": {
+    "id": 15,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 7.2,
+    "cost": 2120.75,
+    "package_type": "box",
+    "deadline_at": "2030-03-12T14:14:58Z",
+    "updated_at": "2025-02-22T19:53:12.670939+03:00"
+  },
+  "15151515": {
+    "id": 15151515,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 3,
+    "cost": 5001,
+    "package_type": "film",
+    "deadline_at": "2025-02-25T21:58:50.150991+03:00",
+    "updated_at": "2025-02-23T21:58:50.150992+03:00"
+  },
+  "16": {
+    "id": 16,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 3.9,
+    "cost": 651.25,
+    "package_type": "film",
+    "deadline_at": "2030-11-29T19:02:13Z",
+    "updated_at": "2025-02-22T19:53:12.670944+03:00"
+  },
+  "17": {
+    "id": 17,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 12.8,
+    "cost": 5900,
+    "deadline_at": "2030-06-15T10:49:27Z",
+    "updated_at": "2025-02-22T19:53:12.670948+03:00"
+  },
+  "18": {
+    "id": 18,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 4.5,
+    "cost": 855.5,
+    "package_type": "bag",
+    "deadline_at": "2030-01-31T15:36:42Z",
+    "updated_at": "2025-02-22T19:53:12.670952+03:00"
+  },
+  "19": {
+    "id": 19,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 9.7,
+    "cost": 3620.75,
+    "package_type": "box",
+    "deadline_at": "2030-09-18T08:23:56Z",
+    "updated_at": "2025-02-22T19:53:12.670956+03:00"
+  },
+  "2": {
+    "id": 2,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 7.8,
+    "cost": 2300.75,
+    "deadline_at": "2030-03-21T14:56:12Z",
+    "updated_at": "2025-02-22T19:53:12.670886+03:00"
+  },
+  "20": {
+    "id": 20,
+    "customer_id": 2,
+    "state": "accepted",
+    "weight": 2.4,
+    "cost": 300.25,
+    "deadline_at": "2030-04-04T13:11:09Z",
+    "updated_at": "2025-02-22T19:53:12.670959+03:00"
+  },
+  "2025": {
+    "id": 2025,
+    "customer_id": 2025,
+    "state": "accepted",
+    "weight": 3.2,
+    "cost": 470.5,
+    "package_type": "box",
+    "deadline_at": "2030-08-15T09:23:47Z",
+    "updated_at": "2025-02-24T11:14:57.140519+03:00"
+  },
+  "2026": {
+    "id": 2026,
+    "customer_id": 2025,
+    "state": "accepted",
+    "weight": 3.2,
+    "cost": 470.5,
+    "package_type": "box",
+    "deadline_at": "2030-08-15T09:23:47Z",
+    "updated_at": "2025-02-24T11:15:31.889243+03:00"
+  },
+  "21": {
+    "id": 21,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 14.9,
+    "cost": 8201,
+    "package_type": "film",
+    "deadline_at": "2030-12-21T17:58:24Z",
+    "updated_at": "2025-02-22T19:53:12.670963+03:00"
+  },
+  "21212": {
+    "id": 21212,
+    "customer_id": 1,
+    "state": "returned",
+    "weight": 1,
+    "cost": 106,
+    "package_type": "bag",
+    "wrapper": "film",
+    "deadline_at": "2025-02-25T22:09:24.612997+03:00",
+    "updated_at": "2025-02-24T17:23:53.621503+03:00",
+    "delivered_at": "2025-02-24T11:53:32.988803+03:00",
+    "returned_at": "2025-02-24T17:23:53.621503+03:00"
+  },
+  "22": {
+    "id": 22,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 6.1,
+    "cost": 1505.5,
+    "package_type": "bag",
+    "deadline_at": "2030-07-07T10:45:38Z",
+    "updated_at": "2025-02-22T19:53:12.670967+03:00"
+  },
+  "22435": {
+    "id": 22435,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 1,
+    "cost": 1,
+    "deadline_at": "2025-03-01T17:03:27.723495+03:00",
+    "updated_at": "2025-02-27T17:03:27.723503+03:00"
+  },
+  "23": {
+    "id": 23,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 11.5,
+    "cost": 5100.75,
+    "deadline_at": "2030-02-23T15:32:53Z",
+    "updated_at": "2025-02-22T19:53:12.670971+03:00"
+  },
+  "24": {
+    "id": 24,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 8.8,
+    "cost": 3020.25,
+    "package_type": "box",
+    "deadline_at": "2030-10-10T07:20:07Z",
+    "updated_at": "2025-02-22T19:53:12.670975+03:00"
+  },
+  "25": {
+    "id": 25,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 1.5,
+    "cost": 176,
+    "package_type": "film",
+    "deadline_at": "2030-05-27T12:07:22Z",
+    "updated_at": "2025-02-22T19:53:12.670979+03:00"
+  },
+  "26": {
+    "id": 26,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 13.2,
+    "cost": 6400.5,
+    "deadline_at": "2030-01-13T16:54:36Z",
+    "updated_at": "2025-02-22T19:53:12.670982+03:00"
+  },
+  "27": {
+    "id": 27,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 5.7,
+    "cost": 1355.75,
+    "package_type": "bag",
+    "deadline_at": "2030-08-30T09:41:51Z",
+    "updated_at": "2025-02-22T19:53:12.670986+03:00"
+  },
+  "28": {
+    "id": 28,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 10.3,
+    "cost": 4120.25,
+    "package_type": "box",
+    "deadline_at": "2030-04-16T14:29:04Z",
+    "updated_at": "2025-02-22T19:53:12.67099+03:00"
+  },
+  "29": {
+    "id": 29,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 7.6,
+    "cost": 2200,
+    "deadline_at": "2030-12-03T19:16:19Z",
+    "updated_at": "2025-02-22T19:53:12.670994+03:00"
+  },
+  "3": {
+    "id": 3,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 12.4,
+    "cost": 5601.25,
+    "package_type": "film",
+    "deadline_at": "2030-11-04T18:34:29Z",
+    "updated_at": "2025-02-22T19:53:12.670891+03:00"
+  },
+  "30": {
+    "id": 30,
+    "customer_id": 3,
+    "state": "accepted",
+    "weight": 3.5,
+    "cost": 551.5,
+    "package_type": "film",
+    "deadline_at": "2030-07-20T11:03:33Z",
+    "updated_at": "2025-02-22T19:53:12.671005+03:00"
+  },
+  "31": {
+    "id": 31,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 7.1,
+    "cost": 5405.75,
+    "package_type": "bag",
+    "deadline_at": "2030-03-06T15:50:48Z",
+    "updated_at": "2025-02-22T19:53:12.671009+03:00"
+  },
+  "32": {
+    "id": 32,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 4.2,
+    "cost": 750.25,
+    "deadline_at": "2030-10-23T08:38:02Z",
+    "updated_at": "2025-02-22T19:53:12.671013+03:00"
+  },
+  "33": {
+    "id": 33,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 9.4,
+    "cost": 3520,
+    "package_type": "box",
+    "deadline_at": "2030-06-09T13:25:17Z",
+    "updated_at": "2025-02-22T19:53:12.671017+03:00"
+  },
+  "34": {
+    "id": 34,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 2.7,
+    "cost": 351.5,
+    "package_type": "film",
+    "deadline_at": "2030-01-25T18:12:31Z",
+    "updated_at": "2025-02-22T19:53:12.671021+03:00"
+  },
+  "35": {
+    "id": 35,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 14.6,
+    "cost": 7900.75,
+    "deadline_at": "2030-09-12T09:59:46Z",
+    "updated_at": "2025-02-22T19:53:12.671024+03:00"
+  },
+  "36": {
+    "id": 36,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 6.8,
+    "cost": 1755.25,
+    "package_type": "bag",
+    "deadline_at": "2030-04-29T14:47:00Z",
+    "updated_at": "2025-02-22T19:53:12.671028+03:00"
+  },
+  "37": {
+    "id": 37,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 11.9,
+    "cost": 5320,
+    "package_type": "box",
+    "deadline_at": "2030-12-16T19:34:15Z",
+    "updated_at": "2025-02-22T19:53:12.671031+03:00"
+  },
+  "38": {
+    "id": 38,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 8.1,
+    "cost": 2600.5,
+    "deadline_at": "2030-08-02T11:21:29Z",
+    "updated_at": "2025-02-22T19:53:12.671035+03:00"
+  },
+  "39": {
+    "id": 39,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 1.2,
+    "cost": 151.75,
+    "package_type": "film",
+    "deadline_at": "2030-03-19T16:08:44Z",
+    "updated_at": "2025-02-22T19:53:12.671038+03:00"
+  },
+  "4": {
+    "id": 4,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 4.7,
+    "cost": 895,
+    "package_type": "bag",
+    "deadline_at": "2030-06-30T11:45:33Z",
+    "updated_at": "2025-02-22T19:53:12.670896+03:00"
+  },
+  "40": {
+    "id": 40,
+    "customer_id": 4,
+    "state": "accepted",
+    "weight": 1.5,
+    "cost": 6605.25,
+    "package_type": "bag",
+    "deadline_at": "2030-11-05T07:55:58Z",
+    "updated_at": "2025-02-22T19:53:12.671042+03:00"
+  },
+  "41": {
+    "id": 41,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 5,
+    "cost": 1100,
+    "deadline_at": "2030-06-22T12:43:13Z",
+    "updated_at": "2025-02-22T19:53:12.671046+03:00"
+  },
+  "42": {
+    "id": 42,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 10.8,
+    "cost": 4520.5,
+    "package_type": "box",
+    "deadline_at": "2030-02-07T17:30:27Z",
+    "updated_at": "2025-02-22T19:53:12.671049+03:00"
+  },
+  "43": {
+    "id": 43,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 7.3,
+    "cost": 2151.75,
+    "package_type": "film",
+    "deadline_at": "2030-09-25T09:17:42Z",
+    "updated_at": "2025-02-22T19:53:12.671053+03:00"
+  },
+  "44": {
+    "id": 44,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 3.7,
+    "cost": 600.25,
+    "deadline_at": "2030-05-12T14:04:56Z",
+    "updated_at": "2025-02-22T19:53:12.671057+03:00"
+  },
+  "444": {
+    "id": 444,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 6,
+    "cost": 600,
+    "deadline_at": "2025-02-26T19:23:34.139033+03:00",
+    "updated_at": "2025-02-24T19:23:34.139044+03:00"
+  },
+  "45": {
+    "id": 45,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 2.6,
+    "cost": 5705,
+    "package_type": "bag",
+    "deadline_at": "2030-12-29T18:52:11Z",
+    "updated_at": "2025-02-22T19:53:12.671061+03:00"
+  },
+  "46": {
+    "id": 46,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 4.8,
+    "cost": 970.5,
+    "package_type": "box",
+    "deadline_at": "2030-08-15T10:39:25Z",
+    "updated_at": "2025-02-22T19:53:12.671064+03:00"
+  },
+  "47": {
+    "id": 47,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 9.9,
+    "cost": 3800.75,
+    "deadline_at": "2030-04-02T15:26:40Z",
+    "updated_at": "2025-02-22T19:53:12.671068+03:00"
+  },
+  "48": {
+    "id": 48,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 2.2,
+    "cost": 276.25,
+    "package_type": "film",
+    "deadline_at": "2030-11-19T07:13:54Z",
+    "updated_at": "2025-02-22T19:53:12.671071+03:00"
+  },
+  "49": {
+    "id": 49,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 8.1,
+    "cost": 7605,
+    "package_type": "bag",
+    "deadline_at": "2030-07-06T12:01:09Z",
+    "updated_at": "2025-02-22T19:53:12.671075+03:00"
+  },
+  "5": {
+    "id": 5,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 9.1,
+    "cost": 3400.5,
+    "deadline_at": "2030-01-17T16:28:55Z",
+    "updated_at": "2025-02-22T19:53:12.6709+03:00"
+  },
+  "50": {
+    "id": 50,
+    "customer_id": 5,
+    "state": "accepted",
+    "weight": 6.4,
+    "cost": 1600.5,
+    "deadline_at": "2030-02-21T16:48:23Z",
+    "updated_at": "2025-02-22T19:53:12.671078+03:00"
+  },
+  "51": {
+    "id": 51,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 11.7,
+    "cost": 5220.75,
+    "package_type": "box",
+    "deadline_at": "2030-10-09T08:35:38Z",
+    "updated_at": "2025-02-22T19:53:12.671082+03:00"
+  },
+  "52": {
+    "id": 52,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 8.6,
+    "cost": 2901.25,
+    "package_type": "film",
+    "deadline_at": "2030-05-26T13:22:52Z",
+    "updated_at": "2025-02-22T19:53:12.671087+03:00"
+  },
+  "53": {
+    "id": 53,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 1.7,
+    "cost": 200,
+    "deadline_at": "2030-01-11T18:10:07Z",
+    "updated_at": "2025-02-22T19:53:12.671091+03:00"
+  },
+  "54": {
+    "id": 54,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 3.8,
+    "cost": 6805.5,
+    "package_type": "bag",
+    "deadline_at": "2030-08-29T09:57:21Z",
+    "updated_at": "2025-02-22T19:53:12.671095+03:00"
+  },
+  "55": {
+    "id": 55,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 5.4,
+    "cost": 1270.75,
+    "package_type": "box",
+    "deadline_at": "2030-04-15T14:44:36Z",
+    "updated_at": "2025-02-22T19:53:12.671099+03:00"
+  },
+  "56": {
+    "id": 56,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 10.1,
+    "cost": 4000.25,
+    "deadline_at": "2030-12-02T19:31:50Z",
+    "updated_at": "2025-02-22T19:53:12.671103+03:00"
+  },
+  "57": {
+    "id": 57,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 7.9,
+    "cost": 2401,
+    "package_type": "film",
+    "deadline_at": "2030-07-19T11:19:05Z",
+    "updated_at": "2025-02-22T19:53:12.671107+03:00"
+  },
+  "58": {
+    "id": 58,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 3.1,
+    "cost": 430.5,
+    "package_type": "bag",
+    "deadline_at": "2030-03-06T16:06:19Z",
+    "updated_at": "2025-02-22T19:53:12.671123+03:00"
+  },
+  "59": {
+    "id": 59,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 12.3,
+    "cost": 5500.75,
+    "deadline_at": "2030-10-23T07:53:34Z",
+    "updated_at": "2025-02-22T19:53:12.671128+03:00"
+  },
+  "6": {
+    "id": 6,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 2.9,
+    "cost": 395.25,
+    "package_type": "box",
+    "deadline_at": "2030-09-23T08:12:41Z",
+    "updated_at": "2025-02-22T19:53:12.670904+03:00"
+  },
+  "60": {
+    "id": 60,
+    "customer_id": 6,
+    "state": "accepted",
+    "weight": 4.4,
+    "cost": 820.25,
+    "package_type": "box",
+    "deadline_at": "2030-06-09T12:40:48Z",
+    "updated_at": "2025-02-22T19:53:12.671132+03:00"
+  },
+  "61": {
+    "id": 61,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 9.6,
+    "cost": 3701,
+    "package_type": "film",
+    "deadline_at": "2030-01-26T17:28:03Z",
+    "updated_at": "2025-02-22T19:53:12.671136+03:00"
+  },
+  "61762": {
+    "id": 61762,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 5,
+    "cost": 465,
+    "package_type": "box",
+    "wrapper": "film",
+    "deadline_at": "2025-02-25T21:54:43.994729+03:00",
+    "updated_at": "2025-02-23T21:54:43.99473+03:00"
+  },
+  "61763": {
+    "id": 61763,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 5,
+    "cost": 464,
+    "package_type": "box",
+    "deadline_at": "2025-02-25T21:55:12.828872+03:00",
+    "updated_at": "2025-02-23T21:55:12.828873+03:00"
+  },
+  "62": {
+    "id": 62,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 2.5,
+    "cost": 325.5,
+    "deadline_at": "2030-09-13T09:15:17Z",
+    "updated_at": "2025-02-22T19:53:12.67114+03:00"
+  },
+  "63": {
+    "id": 63,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 4.8,
+    "cost": 8105.75,
+    "package_type": "bag",
+    "deadline_at": "2030-05-01T14:02:32Z",
+    "updated_at": "2025-02-22T19:53:12.671144+03:00"
+  },
+  "64": {
+    "id": 64,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 6.2,
+    "cost": 1570.25,
+    "package_type": "box",
+    "deadline_at": "2030-12-18T18:49:46Z",
+    "updated_at": "2025-02-22T19:53:12.671147+03:00"
+  },
+  "65": {
+    "id": 65,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 11.4,
+    "cost": 5000,
+    "deadline_at": "2030-08-04T10:37:01Z",
+    "updated_at": "2025-02-22T19:53:12.671151+03:00"
+  },
+  "66": {
+    "id": 66,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 8.7,
+    "cost": 2951.5,
+    "package_type": "film",
+    "deadline_at": "2030-03-22T15:24:15Z",
+    "updated_at": "2025-02-22T19:53:12.671155+03:00"
+  },
+  "67": {
+    "id": 67,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 1.4,
+    "cost": 170.75,
+    "package_type": "bag",
+    "deadline_at": "2030-11-08T07:11:30Z",
+    "updated_at": "2025-02-22T19:53:12.671158+03:00"
+  },
+  "68": {
+    "id": 68,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 13.1,
+    "cost": 6300.25,
+    "deadline_at": "2030-06-25T11:58:44Z",
+    "updated_at": "2025-02-22T19:53:12.671162+03:00"
+  },
+  "69": {
+    "id": 69,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 5.6,
+    "cost": 1320,
+    "package_type": "box",
+    "deadline_at": "2030-02-10T16:45:59Z",
+    "updated_at": "2025-02-22T19:53:12.671166+03:00"
+  },
+  "7": {
+    "id": 7,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 14.3,
+    "cost": 7801,
+    "package_type": "film",
+    "deadline_at": "2030-04-11T13:59:08Z",
+    "updated_at": "2025-02-22T19:53:12.670908+03:00"
+  },
+  "70": {
+    "id": 70,
+    "customer_id": 7,
+    "state": "accepted",
+    "weight": 10.2,
+    "cost": 4051.5,
+    "package_type": "film",
+    "deadline_at": "2030-09-28T08:33:13Z",
+    "updated_at": "2025-02-22T19:53:12.671171+03:00"
+  },
+  "71": {
+    "id": 71,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 7.5,
+    "cost": 2175.75,
+    "deadline_at": "2030-05-15T13:20:28Z",
+    "updated_at": "2025-02-22T19:53:12.671174+03:00"
+  },
+  "72": {
+    "id": 72,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 3.4,
+    "cost": 530.25,
+    "package_type": "bag",
+    "deadline_at": "2030-01-01T18:07:42Z",
+    "updated_at": "2025-02-22T19:53:12.671178+03:00"
+  },
+  "73": {
+    "id": 73,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 12,
+    "cost": 5370,
+    "package_type": "box",
+    "deadline_at": "2030-08-19T09:54:57Z",
+    "updated_at": "2025-02-22T19:53:12.671182+03:00"
+  },
+  "74": {
+    "id": 74,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 4.1,
+    "cost": 725.5,
+    "deadline_at": "2030-04-05T14:42:11Z",
+    "updated_at": "2025-02-22T19:53:12.671185+03:00"
+  },
+  "75": {
+    "id": 75,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 9.3,
+    "cost": 3451.75,
+    "package_type": "film",
+    "deadline_at": "2030-11-22T19:29:26Z",
+    "updated_at": "2025-02-22T19:53:12.671189+03:00"
+  },
+  "76": {
+    "id": 76,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 2.6,
+    "cost": 340.25,
+    "package_type": "bag",
+    "deadline_at": "2030-07-09T11:16:40Z",
+    "updated_at": "2025-02-22T19:53:12.671193+03:00"
+  },
+  "77": {
+    "id": 77,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 14.5,
+    "cost": 7850,
+    "deadline_at": "2030-02-24T16:03:55Z",
+    "updated_at": "2025-02-22T19:53:12.671196+03:00"
+  },
+  "78": {
+    "id": 78,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 6.7,
+    "cost": 1720.5,
+    "package_type": "box",
+    "deadline_at": "2030-10-12T07:51:09Z",
+    "updated_at": "2025-02-22T19:53:12.6712+03:00"
+  },
+  "79": {
+    "id": 79,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 11.8,
+    "cost": 5251.75,
+    "package_type": "film",
+    "deadline_at": "2030-05-29T12:38:24Z",
+    "updated_at": "2025-02-22T19:53:12.671204+03:00"
+  },
+  "8": {
+    "id": 8,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 6.5,
+    "cost": 1650.75,
+    "deadline_at": "2030-12-28T19:37:16Z",
+    "updated_at": "2025-02-22T19:53:12.670911+03:00"
+  },
+  "80": {
+    "id": 80,
+    "customer_id": 8,
+    "state": "accepted",
+    "weight": 8,
+    "cost": 2550.25,
+    "deadline_at": "2030-01-15T17:25:38Z",
+    "updated_at": "2025-02-22T19:53:12.671208+03:00"
+  },
+  "81": {
+    "id": 81,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 1.1,
+    "cost": 140,
+    "package_type": "bag",
+    "deadline_at": "2030-09-02T09:12:53Z",
+    "updated_at": "2025-02-22T19:53:12.671211+03:00"
+  },
+  "82": {
+    "id": 82,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 13.4,
+    "cost": 6570.5,
+    "package_type": "box",
+    "deadline_at": "2030-04-19T14:00:07Z",
+    "updated_at": "2025-02-22T19:53:12.671215+03:00"
+  },
+  "83": {
+    "id": 83,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 4.9,
+    "cost": 975.75,
+    "deadline_at": "2030-12-06T18:47:22Z",
+    "updated_at": "2025-02-22T19:53:12.671219+03:00"
+  },
+  "84": {
+    "id": 84,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 10.7,
+    "cost": 4451.25,
+    "package_type": "film",
+    "deadline_at": "2030-07-23T10:34:36Z",
+    "updated_at": "2025-02-22T19:53:12.671222+03:00"
+  },
+  "85": {
+    "id": 85,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 7.4,
+    "cost": 2130,
+    "package_type": "bag",
+    "deadline_at": "2030-03-10T15:21:51Z",
+    "updated_at": "2025-02-22T19:53:12.671226+03:00"
+  },
+  "86": {
+    "id": 86,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 3.6,
+    "cost": 575.5,
+    "deadline_at": "2030-10-27T07:09:05Z",
+    "updated_at": "2025-02-22T19:53:12.67123+03:00"
+  },
+  "87": {
+    "id": 87,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 12.5,
+    "cost": 5670.75,
+    "package_type": "box",
+    "deadline_at": "2030-06-13T11:56:20Z",
+    "updated_at": "2025-02-22T19:53:12.671234+03:00"
+  },
+  "88": {
+    "id": 88,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 4.6,
+    "cost": 876.25,
+    "package_type": "film",
+    "deadline_at": "2030-01-30T16:43:34Z",
+    "updated_at": "2025-02-22T19:53:12.671238+03:00"
+  },
+  "89": {
+    "id": 89,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 9.8,
+    "cost": 3750,
+    "deadline_at": "2030-09-17T08:30:49Z",
+    "updated_at": "2025-02-22T19:53:12.671242+03:00"
+  },
+  "9": {
+    "id": 9,
+    "customer_id": 1,
+    "state": "accepted",
+    "weight": 9.2,
+    "cost": 4905.25,
+    "package_type": "bag",
+    "deadline_at": "2030-07-05T10:44:22Z",
+    "updated_at": "2025-02-22T19:53:12.670915+03:00"
+  },
+  "90": {
+    "id": 90,
+    "customer_id": 9,
+    "state": "accepted",
+    "weight": 2.3,
+    "cost": 290.5,
+    "package_type": "bag",
+    "deadline_at": "2030-05-04T13:18:03Z",
+    "updated_at": "2025-02-22T19:53:12.671245+03:00"
+  },
+  "91": {
+    "id": 91,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 14.7,
+    "cost": 7970.75,
+    "package_type": "box",
+    "deadline_at": "2030-12-21T18:05:18Z",
+    "updated_at": "2025-02-22T19:53:12.671249+03:00"
+  },
+  "92": {
+    "id": 92,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 6.9,
+    "cost": 1800.25,
+    "deadline_at": "2030-08-08T09:52:32Z",
+    "updated_at": "2025-02-22T19:53:12.671253+03:00"
+  },
+  "93": {
+    "id": 93,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 11.6,
+    "cost": 5151,
+    "package_type": "film",
+    "deadline_at": "2030-03-25T14:39:47Z",
+    "updated_at": "2025-02-22T19:53:12.671258+03:00"
+  },
+  "94": {
+    "id": 94,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 8.9,
+    "cost": 3055.5,
+    "package_type": "bag",
+    "deadline_at": "2030-11-11T19:27:01Z",
+    "updated_at": "2025-02-22T19:53:12.671267+03:00"
+  },
+  "95": {
+    "id": 95,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 1.6,
+    "cost": 185.75,
+    "deadline_at": "2030-06-28T11:14:16Z",
+    "updated_at": "2025-02-22T19:53:12.671271+03:00"
+  },
+  "96": {
+    "id": 96,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 13.3,
+    "cost": 6470.25,
+    "package_type": "box",
+    "deadline_at": "2030-02-14T16:01:30Z",
+    "updated_at": "2025-02-22T19:53:12.671275+03:00"
+  },
+  "97": {
+    "id": 97,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 5.8,
+    "cost": 1401,
+    "package_type": "film",
+    "deadline_at": "2030-10-02T07:48:45Z",
+    "updated_at": "2025-02-22T19:53:12.671278+03:00"
+  },
+  "98": {
+    "id": 98,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 10.4,
+    "cost": 4150.5,
+    "deadline_at": "2030-05-19T12:35:59Z",
+    "updated_at": "2025-02-22T19:53:12.671282+03:00"
+  },
+  "99": {
+    "id": 99,
+    "customer_id": 10,
+    "state": "accepted",
+    "weight": 7.7,
+    "cost": 2255.75,
+    "package_type": "bag",
+    "deadline_at": "2030-01-05T17:23:14Z",
+    "updated_at": "2025-02-22T19:53:12.671286+03:00"
+  }
+}
